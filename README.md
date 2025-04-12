@@ -1,3 +1,3 @@
 # TaborForms
 
-*[preview website](http://taborforms.github.io/cbyun99)*
+*[preview website](https://cbyun99.github.io/TaborForms/)*

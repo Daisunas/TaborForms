@@ -5,10 +5,11 @@ layout: default
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./LOA-form.html).
-
-<script src="https://cdn.docuseal.com/js/form.js"></script>
-
-<docuseal-form data-src="https://docuseal.com/d/vjX1XvTagBcXBF"></docuseal-form>
+<details>
+  <summary>LOA Form</summary>
+  <script src="https://cdn.docuseal.com/js/form.js"></script>
+  <docuseal-form data-src="https://docuseal.com/d/vjX1XvTagBcXBF"></docuseal-form>
+</details>
 
 
 There should be whitespace between paragraphs.

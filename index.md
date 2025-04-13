@@ -6,11 +6,10 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./LOA-form.html).
 <details>
-  <summary>LOA Form</summary>
+  <summary style="cursor: pointer; font-weight: bold;">LOA Form</summary>
   <script src="https://cdn.docuseal.com/js/form.js"></script>
   <docuseal-form data-src="https://docuseal.com/d/vjX1XvTagBcXBF"></docuseal-form>
 </details>
-
 
 There should be whitespace between paragraphs.
 

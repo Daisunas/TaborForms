@@ -1,16 +1,21 @@
+<!---
 ---
 layout: default
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
+-->
 
-[Link to another page](./LOA-form.html).
+[Link to LOA form](./LOA-form.html).
+
 <details>
-  <summary style="cursor: pointer; font-weight: bold;">LOA Form</summary>
+  <summary style="cursor: pointer; font-weight: bold;">LOA Form Embedded</summary>
   <script src="https://cdn.docuseal.com/js/form.js"></script>
   <docuseal-form data-src="https://docuseal.com/d/vjX1XvTagBcXBF"></docuseal-form>
 </details>
 
+
+<!---
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
@@ -126,3 +131,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+-->

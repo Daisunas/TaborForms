@@ -14,12 +14,6 @@ layout: default
   <docuseal-form data-src="https://docuseal.com/d/vjX1XvTagBcXBF"></docuseal-form>
 </details>
 
-<details>
-<summary>How do I dropdown?</summary>
-<br>
-This is how you dropdown.
-</details>
-
 <!---
 There should be whitespace between paragraphs.
 
